@@ -1,0 +1,16 @@
+body{
+    background: #eeeeee;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+.content{
+    background: #ffffff;
+    max-width: 600px;
+    margin: auto;
+    padding: 40px;
+}
+#retreivedCode{
+    padding: 10px 0;
+    font-weight: bold;
+    font-size: 2rem;
+}
